@@ -1,2 +1,2 @@
-# hackathon-22-backend
+# Backend for Android Academy Client
 Back-end API for Android App
