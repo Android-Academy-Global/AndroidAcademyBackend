@@ -7,7 +7,7 @@ plugins {
 	kotlin("plugin.spring") version "1.4.30"
 }
 
-group = "com.github.hackathon_22"
+group = "com.android_academy.backend"
 version = "0.0.1"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
